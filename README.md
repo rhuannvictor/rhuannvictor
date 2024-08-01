@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou [Rhuann Victor]!
 
-<!--
-**rhuannvictor/rhuannvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre Mim
+Tenho 21 anos, moro da Paraíba e sou atualmente um estudante de ADS apaixonado por tecnologia e com um grande sonho de estar em breve trabalhando diretamente na área da programação.
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens de Programação
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuannvictor&layout=compact&theme=dracula)
+
+### Tecnologias e Ferramentas
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** C, Java
+
+## 🏢 Experiência Profissional
+- **[Ferreira Distribuidora]** - [Suporte TI] _(05/2023 - Atualmente)_
+  - Suporte geral de hardware e software da empresa, com foco nos sistemas Winthor e IonVendas.
+
+## 📫 Contato
+- **Email:** rhuann.victor2002@gmail.com
+- **LinkedIn:** [Rhuann Victor]([https://www.linkedin.com/in/rhuann-victor-a4364a220/)
+- **GitHub:** [rhuannvictor](https://github.com/rhuannvictor)
+
+---
+
+Obrigado por visitar o meu perfil! Será um prazer tirar qualquer dúvida!
